@@ -152,7 +152,7 @@ section {
 
 .search-form-container {
   position: fixed;
-  top: 8.5rem;
+  top: 6 rem;
   left: 0;
   right: 0;
   height: calc(100vh - 8.5rem);
@@ -1132,4 +1132,5 @@ section {
   .home .content p {
     font-size: 1.5rem;
   }
+  
 }
